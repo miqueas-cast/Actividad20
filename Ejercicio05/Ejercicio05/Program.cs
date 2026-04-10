@@ -1,5 +1,4 @@
-﻿// Solicitar n números en un arreglo y determinar el valor mayor
-
+﻿
 static int ValidacionEntradas(string mensaje, int min, int max)
 {
     int numero;

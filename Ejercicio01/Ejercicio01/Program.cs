@@ -1,6 +1,4 @@
-﻿// Solicitar al usuario la cantidad n de números, guardarlos en un arreglo y mostrarlos en pantalla
-
-static int ValidacionEntradas(string mensaje, int min, int max)
+﻿static int ValidacionEntradas(string mensaje, int min, int max)
 {
     int numero;
     bool esValido;

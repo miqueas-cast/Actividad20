@@ -1,5 +1,4 @@
-﻿// Solicitar n números enteros, guardarlos en un arreglo y calcular la suma total
-
+﻿
 static int ValidacionEntradas(string mensajes, int min, int max)
 {
     int numero;

@@ -1,4 +1,4 @@
-﻿// Solicitar n números, guardarlos en un arreglo y mostrarlos en orden inverso
+﻿
 static int ValidacionEntradas(string mensaje, int min, int max)
 {
     int numero;
