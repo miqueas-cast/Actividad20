@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BenchmarkSuite1/BenchmarkSuite1.csproj" />
+  <Project Path="Ejercicio15/Ejercicio15.csproj" />
+</Solution>
